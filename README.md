@@ -26,19 +26,4 @@ Deployed using Streamlit Community Cloud.
 ML + NLP beginner project
 
 ```
-
----
-
-# 👍 This version is:
-- Very short
-- Clean
-- Recruiter-readable in 5 seconds
-- Perfect for GitHub + LinkedIn link sharing
-
----
-
-If you want, I can also make:
-✔ :contentReference[oaicite:0]{index=0}  
-✔ :contentReference[oaicite:1]{index=1}  
-✔ or :contentReference[oaicite:2]{index=2}
 ```
