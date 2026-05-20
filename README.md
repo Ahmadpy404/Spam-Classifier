@@ -24,6 +24,6 @@ Deployed using Streamlit Community Cloud.
 ## 👨‍💻 Author
 
 ML + NLP beginner project
-
 ```
+🌐 Live Demo: https://spam-classifier-067.streamlit.app/
 ```
