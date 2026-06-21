@@ -1,4 +1,4 @@
-````md
+
 # 📩 Spam Classifier Web App
 
 A simple Machine Learning web app that detects whether an SMS/message is **Spam or Not Spam** using NLP and a trained classification model.
@@ -6,11 +6,10 @@ A simple Machine Learning web app that detects whether an SMS/message is **Spam 
 ## 🚀 Tech Stack
 Python, Scikit-learn, NLP, Streamlit
 
-## ▶️ Run Locally
-```bash
+# Run Locally
+
 pip install -r requirements.txt
 streamlit run app.py
-````
 
 ## 📌 Example
 
